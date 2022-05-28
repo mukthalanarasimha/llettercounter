@@ -1,0 +1,29 @@
+.Letter_container {
+  background-image: linear-gradient(to right, #1d976c 0%, #93f9b9 107%);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.text_part_of_letter_count {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+.button_box_container {
+  background-color: white;
+  color: #1d976c;
+  font-family: 'roboto';
+  font-weight: bold;
+  margin-top: 20px;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+}
+.image_letter_count_image {
+  height: 200px;
+}
+.letter_image_text {
+  display: flex;
+}
